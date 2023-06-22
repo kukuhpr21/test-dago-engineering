@@ -1,6 +1,7 @@
 # Test Dago Engineering
 
 ## Database & Application
+- npm install
 - File **dago_engineering.sql** terdapat didalam folder **docs**
 - Setting database dan aplikasi di file **.env**
 
